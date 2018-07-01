@@ -1,0 +1,134 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="start">Start Quiz</string>
+    <string name="welcome">Andela quiz</string>
+    <string name="name">Name :</string>
+    <string name="category">Category :%s</string>
+    <string name="nameOnlyToast">Enter your name before continuing</string>
+    <string name="androidOrWebToast">Select a category first</string>
+    <string name="allToast">Enter your name and select a category</string>
+
+
+    <string name="quizName">Name : \t\t\t%s</string>
+    <string name="quizCategory">Category : \t\t%s</string>
+    <string name="quizScore">Score : \t\t\t%d</string>
+    <string name="quizQuestion">Question :\n%s</string>
+    <string name="quizOpt1">%s</string>
+    <string name="quizOpt2">%s</string>
+    <string name="quizOpt3">%s</string>
+    <string name="quizBtnStart">%s</string>
+
+    <string name="android_question1">1. How many versions of the Android operating system has Google released since 2008?</string>
+    <string name="android_question1_option1">36</string>
+    <string name="android_question1_option2">24</string>
+    <string name="android_question1_option3">25</string>
+    <string name="android_question1_option4">10</string>
+
+    <string name="android_question3">3. How many mobile phones are powered by Android operating system?</string>
+    <string name="android_question3_option1">More than four billion</string>
+    <string name="android_question3_option2">More than two billion</string>
+    <string name="android_question3_option3">More than one billion</string>
+    <string name="android_question3_option4">More than ten billion</string>
+
+    <string name="android_question7">7. How much did google pay to acquire Android inc?</string>
+    <string name="android_question7_option1">10 million</string>
+    <string name="android_question7_option2">5 million</string>
+    <string name="android_question7_option3">50 million</string>
+    <string name="android_question7_option4">20 million</string>
+
+    <string name="android_question10">10. When did google buy Android inc?</string>
+    <string name="android_question10_option1">2000</string>
+    <string name="android_question10_option2">1999</string>
+    <string name="android_question10_option3">2008</string>
+    <string name="android_question10_option4">2005</string>
+
+
+    <string name="android_question2">2. What is the name(s) of the first ever smartphones to run on the Android operating system?</string>
+    <string name="android_question2_option1">HTC Dream</string>
+    <string name="android_question2_option2">T_Mobile G1</string>
+    <string name="android_question2_option3">Samsung</string>
+    <string name="android_question2_option4">Sony</string>
+
+    <string name="android_question4">4. Which are Android versions? </string>
+    <string name="android_question4_option1">Cupcake - Android 1.5</string>
+    <string name="android_question4_option2">Donut - Android 1.6</string>
+    <string name="android_question4_option3">Honeycomb Android 3.0</string>
+    <string name="android_question4_option4">Fruitcake Android - Android 1.8</string>
+
+    <string name="hints">Enter answer here </string>
+
+
+    <string name="android_question5">5. Android was originally created as operating system for?</string>
+    <string name="question5Answer">Cameras</string>
+    <string name="android_question6">6. Which company passed the opportunity to buy Android back in 2004?</string>
+    <string name="question6Answer">Samsung</string>
+    <string name="android_question8">8. In what order are Android version named</string>
+    <string name="question8Answer">Alphabetical</string>
+    <string name="android_question9">9. The word Android refers to a ______ robot?</string>
+    <string name="question9Answer">Male</string>
+    <string name="compute_button">Compute</string>
+    <string name="submit_button">Submit</string>
+
+
+    <string name="result_input_name">Name \t\t\t\t%s</string>
+    <string name="result_input_category">Category \t\t%s</string>
+    <string name="result_input_score">User score %s</string>
+    <string name="result_input_correct">The correct answers are:\n  %s</string>
+    <string name="result_input_answers">You got the following wrong\n %s\n</string>
+    <string name="example">Phutiane</string>
+    <string name="android_category">Android</string>
+    <string name="web_development_category">Web Development</string>
+
+
+
+
+
+    <string name="web_question1">1. What does HTML abbreviate?</string>
+    <string name="web_question1_option1">Hypertext makeup language</string>
+    <string name="web_question1_option2">Hypertext Markup Language</string>
+    <string name="web_question1_option3">High level text markup language</string>
+    <string name="web_question1_option4">High tech manual ladder</string>
+
+    <string name="web_question3">3. How long will your website last?</string>
+    <string name="web_question3_option1">1 year</string>
+    <string name="web_question3_option2">5 years</string>
+    <string name="web_question3_option3">3 years</string>
+    <string name="web_question3_option4">10 years</string>
+
+    <string name="web_question7">7. What can influence your search engine ranking?</string>
+    <string name="web_question7_option1">using URI</string>
+    <string name="web_question7_option2">Website pictures</string>
+    <string name="web_question7_option3">Web site source code</string>
+    <string name="web_question7_option4">Using URL </string>
+
+    <string name="web_question10">10. There is a big difference between ______ design and mobile design?</string>
+    <string name="web_question10_option1">basic</string>
+    <string name="web_question10_option2">tv</string>
+    <string name="web_question10_option3">object oriented</string>
+    <string name="web_question10_option4">responsive</string>
+
+    <string name="web_question2">2. Mobile devices now account for nearly _____ of every _____ minutes spent online?</string>
+    <string name="web_question2_option1">2</string>
+    <string name="web_question2_option2">3</string>
+    <string name="web_question2_option3">8</string>
+    <string name="web_question2_option4">10</string>
+
+    <string name="web_question4">4. Key reasons consumers switch devices or give up on content altogether:</string>
+    <string name="web_question4_option1">Images won’t load—46% switch devices; 39% stop engaging</string>
+    <string name="web_question4_option2">It takes too long to load—44% switch devices; 39% stop engaging</string>
+    <string name="web_question4_option3">Content is too long—30% switch devices; 38% stop engaging</string>
+    <string name="web_question4_option4">Honeycomb Android 3.0</string>
+
+
+
+    <string name="web_question5">5. Laptop/desktop is the most commonly used device, but _____ is most commonly used by Millennials</string>
+    <string name="web_question5Answer">Smartphone</string>
+    <string name="web_question6">6. Once your page loads, users form an opinion in _____ seconds.</string>
+    <string name="web_question6Answer">0.50</string>
+    <string name="web_question8">8. 47% of people expect a web page to load in ____ seconds or less.</string>
+    <string name="web_question8Answer">2</string>
+    <string name="web_question9">9. Two-thirds of people would rather read something beautifully designed than something ____.</string>
+    <string name="web_question9Answer">Plain</string>
+    <string name="welcomeStringMessage">Choose between</string>
+
+</resources>

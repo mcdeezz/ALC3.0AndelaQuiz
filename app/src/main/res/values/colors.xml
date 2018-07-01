@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#fb8c00</color>
+    <color name="colorPrimaryDark">#c43c00</color>
+    <color name="colorAccent">#afb42b</color>
+    <color name="btnColor">#F4DE15</color>
+    <color name="round">#fb8c00</color>
+    <color name="red">#d32f2f</color>
+    <color name="round1">#ffbc45</color>
+</resources>

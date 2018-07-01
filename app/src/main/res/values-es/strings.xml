@@ -105,4 +105,5 @@
     <string name="web_question8Answer">2</string>
     <string name="web_question9">dos tercios de las personas preferirían leer algo bellamente diseñado que algo ____.</string>
     <string name="web_question9Answer">llanura</string>
+    <string name="welcomeStringNameMessage">Introduzca su nombre de usuario:</string>
 </resources>

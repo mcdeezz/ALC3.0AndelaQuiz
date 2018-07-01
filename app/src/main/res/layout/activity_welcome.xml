@@ -40,10 +40,11 @@
                 android:layout_gravity="center_horizontal"
                 android:layout_marginBottom="10dp"
                 />
+
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@string/welcomeStringMessage"
+                android:text="@string/welcomeStringNameMessage"
                 android:textSize="25sp"
                 android:textColor="@android:color/white"
                 android:paddingStart="5dp"
@@ -51,6 +52,7 @@
                 android:paddingLeft="5dp"
                 android:layout_marginTop="10dp"
                 />
+
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -81,6 +83,17 @@
                     android:layout_height="wrap_content" />
             </LinearLayout>
 
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/welcomeStringMessage"
+                android:textSize="25sp"
+                android:textColor="@android:color/white"
+                android:paddingStart="5dp"
+                android:paddingEnd="5dp"
+                android:paddingLeft="5dp"
+                android:layout_marginTop="10dp"
+                />
             <RadioGroup
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"

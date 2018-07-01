@@ -130,5 +130,6 @@
     <string name="web_question9">9. Two-thirds of people would rather read something beautifully designed than something ____.</string>
     <string name="web_question9Answer">Plain</string>
     <string name="welcomeStringMessage">Choose between</string>
+    <string name="welcomeStringNameMessage">Enter user name:</string>
 
 </resources>

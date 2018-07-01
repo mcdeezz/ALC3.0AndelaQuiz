@@ -23,6 +23,9 @@
     <string name="quizOpt3">%s</string>
     <string name="quizOpt2">%s</string>
     <string name="quizOpt1">%s</string>
+
+    <string name="compute_button">Calcular</string>
+    <string name="submit_button">Enviar</string>
     <string name="android_question3">¿Cuántos teléfonos móviles funcionan con el sistema operativo Android?</string>
     <string name="android_question3_option1">Más de cuatro mil millones</string>
     <string name="android_question3_option2">Más de dos mil millones</string>
@@ -57,8 +60,6 @@
     <string name="question8Answer">Alfabético</string>
     <string name="android_question9">The word Android refers to a ______ robot?</string>
     <string name="question9Answer">Masculino</string>
-    <string name="submit_button">Calcular</string>
-    <string name="previous_button">Enviar</string>
     <string name="result_input_name">nombre %s</string>
     <string name="result_input_category">categoría %s</string>
     <string name="result_input_score">Puntaje del usuario %s</string>
